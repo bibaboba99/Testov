@@ -1,0 +1,14 @@
+.wrapper{
+ text-align: center;
+ justify-content: center;
+ flex-direction: column;
+   
+}
+.content{
+display: inline-flex;
+justify-content: space-between;
+flex-direction: column;
+flex-wrap: wrap;
+padding: 10px;
+
+}

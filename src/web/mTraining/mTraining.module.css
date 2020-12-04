@@ -1,0 +1,14 @@
+.train{  
+  color: #000000;
+  max-width: auto;
+  font-weight: 700;
+  margin: 5px;
+  background-color: dimgrey;
+  
+
+}
+
+    .train img {
+      width: 50%;
+     opacity: 0.7
+   }

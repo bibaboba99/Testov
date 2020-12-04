@@ -1,0 +1,10 @@
+.reviews{
+    color:#000000;
+    background-color: burlywood ;
+    max-width: auto;
+      font-size: 50px;
+      font-weight: 700;
+      padding: 50px;
+      margin: 5px;
+      border-radius: 20px;
+}
