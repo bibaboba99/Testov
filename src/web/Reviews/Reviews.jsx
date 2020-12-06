@@ -1,5 +1,4 @@
 import React from 'react';
-/*import logo from '../../images/1.jpg'*/
 import rev from './Reviews.module.css';
 
 

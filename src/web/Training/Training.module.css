@@ -1,15 +1,15 @@
 .train{
     color: #000000;
     max-width: auto;
-    /*font-size: 10px;*/
     font-weight: 700;
-    /*padding: 50px;
-    background-color: aqua;*/
+    padding: 50px;
+    background-color: darkgray;
     margin: 5px;
     border-radius: 20px;
 }
 
 .train img {
-    width: 50%;
-   opacity: 0.7
+    margin: 10px; 
+    width: 25%;
+     opacity: 0.7
  }

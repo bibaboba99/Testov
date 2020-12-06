@@ -4,9 +4,11 @@
   font-weight: 700; 
   margin: 5px;
   border-radius: 20px;
+  background-color: gray;
     }
 
     .brushes img {
-      width: 50%;
-     opacity: 0.7
+      margin: 10px; 
+      width: 25%;
+       opacity: 0.7
    }
