@@ -1,5 +1,4 @@
 import './App.css';
-
 import Brushes from './web/Brushes/Brushes';
 import Header from './web/Head/Header.jsx';
 import Mtraining from './web/mTraining/mTraining';
@@ -8,10 +7,6 @@ import Sets from './web/Set/Sets';
 import Feedback from './web/Feedback/Feedback';
 import Reviews from './web/Reviews/Reviews';
 import Footer from './web/Footer/Footer';
-
-
-
-
 
 
 function App(props) {

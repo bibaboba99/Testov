@@ -8,7 +8,7 @@ const Footer =(props)=> {
     return (
         <div className={footer.footer}>
         <div className = "text">
-        Все права защещены!
+        Все права защищены!
         </div>
         </div>
         );

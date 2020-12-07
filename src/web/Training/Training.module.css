@@ -2,10 +2,9 @@
     color: #000000;
     max-width: auto;
     font-weight: 700;
-    padding: 50px;
     background-color: darkgray;
-    margin: 5px;
-    border-radius: 20px;
+    margin: 5px; 
+    text-align: center;   
 }
 
 .train img {

@@ -3,18 +3,20 @@ import logo from '../../images/1.jpg'
 import train from './Training.module.css';
 
 
-const Training =(props)=> {
-   
-    return ( 
+const Training = (props) => {
+
+    return (
         <div className={train.train}>
-             <div>
-            <img src= {logo} alt="картинка"/>
+            <div className="text">
+                Какой-то тест 3
             </div>
-        <div className = "text">
-              30
+            <div>
+                <img src={logo} alt="картинка" />
             </div>
-            <div className = "img"></div>
-</div>);
-    }   
-    
-    export default Training;
+        </div>
+    );
+}
+
+
+
+export default Training;

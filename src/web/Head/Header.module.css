@@ -1,31 +1,22 @@
 .head{
-    color: #000000;
+   text-align: center; 
+   flex-direction: row;
+   color: #000000;
     max-width: auto;
     font-weight: 700;
     margin: 5px;
-    border-radius: 20px;
-   }
-.button{
-    margin-top: 10px;
-    margin-bottom: 10px;
-    background-color: gray;
-    padding: 10px 15px;
-    border-radius: 20px;
-    border: none;
-    cursor: default;   
+  }
 
-} 
 button:hover{
-   background: -webkit-gradient(linear, 0 0, 0 100%, from(#4af264), to(#4af264), color-stop(0.5, #39ba4d));
- }
+   background: -webkit-gradient(linear, 0 0, 0 100%, from(#4af264), to(#4af264), color-stop(0.5, #baad39));
+   
+  }
 
  .head img {
-   display: flex;
-   flex-direction: column;
-   
    margin: 10px; 
    width: 25%;
-   opacity: 0.7;    
+   opacity: 0.7;
+   justify-content: center;    
  }
  .text{
     padding: 10px;
