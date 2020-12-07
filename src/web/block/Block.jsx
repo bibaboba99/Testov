@@ -15,7 +15,7 @@ export default function Block() {
     ])
 
 
-    const left = () =>{
+    const rigth = () =>{
         var arr = active
         const shifted = arr.shift()
         arr.push(disabled[0])
@@ -23,7 +23,7 @@ export default function Block() {
         setdisabled([{...shifted}])
     }
 
-    const rigth = () =>{
+    const left = () =>{
         var arr = active
         const shifted = arr.pop()
         arr.unshift(disabled[0])
